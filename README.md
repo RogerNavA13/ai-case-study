@@ -21,4 +21,4 @@
 >It is recommended that LogRocket consider intefrating behavioral data into their offerings, as competitors have found success in this area. In the audience insight market alone. FullStory holds over 30 percent market share. A difference in technology is behavioral data. Technolohies such as CRM could be utilized by LogRocket to enhance machine learning capabilities. Machine learning naturally relies on data. Behavioral data would pair well with LogRockets' Galileo AI model. This would give their customers the edge they need to find errors with their customers in mind. 
 >**Works Cited**
 >
->Chat GPT. (https://techcrunch.com) .
+>Chat GPT. (https://techcrunch.com) (https://www.fullview.io)
