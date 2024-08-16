@@ -11,6 +11,7 @@
 >**Landscape**
 >
 >LogRocket operates in the audience insight market. Over the past decade. Major trends in the field have included the integration of electronic tablets into daily work, data collection by tech companies, and the creation of cloud based software. Competitors in their field include FullStory, Glassbox, Dynatrace, Datadog, Hotjar, Smartlook, and Heap. 
+>
 >**Results**
 >
 >LogRocket is making a significant impact in their field, using machine learning to address user errors. They are evaluated using DevOps Research and Assessment otherwise known as Dora metrics. Ranking anywhere from Medium to High across all categories. In the audience insight market, LogRocket holds a 3.82 percent market share. 
