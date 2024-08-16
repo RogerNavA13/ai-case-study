@@ -27,4 +27,4 @@
 >**Note**
 >https://github.com/RogerNavA13/ai-case-study.git
 >
->Used a HTTPS
+>Used a HTTPS to clone.
