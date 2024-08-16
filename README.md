@@ -23,3 +23,8 @@
 >**Works Cited**
 >
 >Chat GPT. Google AI. (https://techcrunch.com) (https://www.fullview.io) (https://pitchbook.com/profiles/company/163940-68#faqs) (https://blog.logrocket.com/)
+>
+>**Note**
+>https://github.com/RogerNavA13/ai-case-study.git
+>
+>Used a HTTPS
