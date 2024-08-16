@@ -1,6 +1,6 @@
 # ai-case-study
 ## LogRocket
->**Overview and Origin*
+>**Overview****and****Origin**
 >
 >LogRocket was incorporated in 2016 by M Arbesfeld and Ben Edelstein. The idea for the company emerged while they were finishing college. The two noticed a need for recreating user errors to save time in software development and boost productivity. LogRocket is a privately held company, backed by venture capitalists, and has secured 25 million dollars in funding as of mid-2024.
 >
